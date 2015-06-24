@@ -5,6 +5,7 @@ import javax.jms.MessageListener;
 
 import org.springframework.stereotype.Component;
 
+
 @Component
 public class ConsumerLinstenerImpl implements MessageListener {
 
