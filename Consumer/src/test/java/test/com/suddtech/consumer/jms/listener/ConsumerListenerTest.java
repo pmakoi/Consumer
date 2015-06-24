@@ -27,6 +27,7 @@ public class ConsumerListenerTest {
 		consumerListener.onMessage(message);
 		assertNull(message);
 		
+		
 	}
 
 }
